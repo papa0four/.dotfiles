@@ -112,4 +112,5 @@ alias md="make debug"
 alias mt="make test"
 alias lisa="ls -lisa"
 alias gcm="git commit -m"
+alias p3="python3"
 autoload -Uz compinit && compinit
